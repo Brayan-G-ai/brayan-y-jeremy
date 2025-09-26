@@ -11,3 +11,4 @@ class ApplicationController < ActionController::Base
     render html: "El rails es un framework de codigo abierto para el desarrollo de web en lenguaje de programacion Rub"
   end
 end
+
